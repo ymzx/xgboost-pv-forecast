@@ -15,5 +15,6 @@ xgboost_stack.py中封装XgboostStack类，该类实现对数据加载、模型�
   xgb_stack.metric()
   xgb_stack.plot()
 ```
-
+# 数据
+解压data.rar得到data文件路径，数据目录和数据格式和程序完美对接，考虑到数据隐私性和安全性，删除部分真实数据，并修改部分保留数据，但不影响学习和技术实践。
 
